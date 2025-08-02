@@ -1,4 +1,4 @@
-## CSARCH2 - Case Study 2 
+## CSARCH2 Section S12- Case Study 2 
 
 ### Contributing Members:
 1. BRILLANTES, ALTHEA KAITLIN LIM
